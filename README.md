@@ -8,7 +8,7 @@ A full-stack web application that allows users to write daily journal entries an
 ## ✨ Features
 
 - ✍️ Write and save mood journal entries
-- 📊 Analyze sentiments (Positive, Negative, Neutral)
+- 📊 Analyze sentiments (sadness, anger, love, surprise, fear, joy)
 - ⚙️ Python backend with Flask
 - 🎨 Frontend built with HTML, CSS, JavaScript
 - 📁 Organized frontend-backend architecture
